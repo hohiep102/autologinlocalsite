@@ -32,8 +32,6 @@ const autoInput = async (url) => {
     timeout: 60000
   })
 
-  await mainTab.wait(5000)
-
   await mainTab.wait(1000)
 
   await mainTab.click('body > div.main > div:nth-child(3) > form > input[type="button"]:nth-child(1)')
