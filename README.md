@@ -1,5 +1,8 @@
 # autologinlocalsite
 
+Requirements:
+N
+
 Command:
 USERNAME='{input your username}' PASSWORD='{input your password}' yarn start
 
