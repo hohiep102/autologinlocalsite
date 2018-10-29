@@ -1,7 +1,7 @@
 # autologinlocalsite
 
 Requirements:
-N
+Node version: 8.11.1
 
 Command:
 USERNAME='{input your username}' PASSWORD='{input your password}' yarn start
